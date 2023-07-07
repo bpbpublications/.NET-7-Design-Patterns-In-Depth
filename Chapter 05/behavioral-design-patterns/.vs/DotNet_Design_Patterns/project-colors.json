@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "659c6581-b289-48b1-a5d2-76986e9de03c": {
+      "ProjectGuid": "659c6581-b289-48b1-a5d2-76986e9de03c",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "0b26527b-c899-4862-b9be-c7fc4c146c55": {
+      "ProjectGuid": "0b26527b-c899-4862-b9be-c7fc4c146c55",
+      "DisplayName": "DotNet_Design_Patterns",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

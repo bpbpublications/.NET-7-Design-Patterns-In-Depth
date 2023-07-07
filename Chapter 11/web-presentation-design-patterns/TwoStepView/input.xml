@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<authors>
+  <author>
+    <firstname>Vahid</firstname>
+    <lastname>Farahmandian</lastname>
+    <booksCount>2</booksCount>
+  </author>
+  <author>
+    <firstname>Ali</firstname>
+    <lastname>Rahimi</lastname>
+    <booksCount>1</booksCount>
+  </author>
+  <author>
+    <firstname>Hassan</firstname>
+    <lastname>Abbasi</lastname>
+    <booksCount>3</booksCount>
+  </author>
+</authors>

@@ -1,0 +1,9 @@
+{
+  "logging": [
+    {
+      "interface": "ILog",
+      "implementation": "Plugin.TxtLogger",
+      "assembly": "base-design-patterns"
+    }
+  ]
+}

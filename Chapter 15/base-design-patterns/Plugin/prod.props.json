@@ -1,0 +1,9 @@
+{
+  "logging": [
+    {
+      "interface": "ILog",
+      "implementation": "Plugin.SqlServerLogger",
+      "assembly": "base-design-patterns"
+    }
+  ]
+}
